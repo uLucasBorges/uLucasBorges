@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou aprendiz em TI :)
 - 🌱 Estudando JavaScript
-- 🤔 Todo ajuda será bem-vinda !!
+- 🤔 Toda ajuda será bem - vinda !
 -->
 
     <div>
