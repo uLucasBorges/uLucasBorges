@@ -23,5 +23,12 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+    
+<div align="center">
+  <br><p align="centre"><b>Quantidade de visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{uLucasBorges}/count.svg" /></p> 
+  <br>
+</div>
+    
 </div>
  
