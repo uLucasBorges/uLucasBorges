@@ -1,7 +1,6 @@
 ### Oiii! Eu Sou o Lucas Borges
 
-- 🔭 Atualmente sou aprendiz em TI :)
-- 🌱 Estudando C#
+- 🌱 Estudando 
 - 🤔 Toda ajuda será bem - vinda !
 
 
